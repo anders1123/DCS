@@ -1,1 +1,1 @@
-# DCS
+# This is an official implementation of the paper 'When Shortcuts Disagree: Discordance-Oriented Causal Subgraph Discrimination for Graph OOD Generalization', full version will be released once accepted.
